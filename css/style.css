@@ -1,0 +1,170 @@
+*{
+	margin:0;
+	padding:0;
+	
+}
+.total{
+	height:718px;
+	width:600px;
+
+	margin:auto;
+}
+.headers{
+	text-align:center;
+	background: #000000;
+	color:#f8f110;
+	font-size:40px;
+	height:150px;
+	line-height:150px;
+	width:600px;
+	margin:auto;
+}
+.total_menu{
+	font-size:15px
+}	
+}
+.site_menu{
+	width:476px;
+	line-height:78px;
+}
+ul{
+	margin-bottom: 25px;
+}
+.site_menu ul li{
+	float:left;
+	padding: 0px 07px;
+	list-style:none;
+	margin:auto;
+}
+.site_menu a:hover{
+	background:white;
+	color:black;
+	
+}
+.site_menu ul li a{
+	color:white;
+	text-decoration:none; 
+	background:black;
+	margin: 52px;
+    padding: 14px;
+	background-position:20px;
+	margin-top:10px;
+}
+.bar{
+	width:600px;
+	height:68px;
+	margin:auto;
+	background: #9e9b9b;
+	overflow:hidden;
+}
+.right_side{
+	width: 400px;
+	text-align:center;
+	height:650px;
+	overflow: hidden;
+	background:#cdcdcd;
+	float:right;
+}
+.look {
+    color:  black;
+		text-align:center;
+}
+.look h1{
+	text-align:center;
+}
+.icon{
+	color:aqua;
+	margin:auto;
+    text-align: center;
+	size:30px;
+	margin:10;
+	padding:20;
+}
+i{
+	margin:20px;
+	padding:20px;
+}
+
+.monitor {
+    text-align: left;
+	overflow:hidden;
+	float:left;
+    width: 133px;
+}
+
+.bootstrap {
+    text-align: center;
+	overflow:hidden;
+	float:center;
+	margin:auto;
+    width: 133px;
+    background-color:seashell;
+	float:left;
+	size:10px;
+}
+
+.use {
+    text-align: right;
+	overflow:hidden;
+    float:right;
+    width: 133px;
+}
+.all{
+	width: 400px;
+	margin:auto;
+	margin-top:200px;
+}
+
+
+.left_side{
+	width: 200px;
+	text-align:center;
+	height:650px;
+	text-align:left;
+	overflow: hidden;
+	background:#f0f4bc;
+	float:left;
+}
+.left_side img{
+	margin:20px;
+}
+.left_side p{
+	text-align:center;
+	colocr:black;
+}
+.left_side ul {
+	color:black;
+	text-align:center;
+}
+.footer_section {
+    background:black;
+    text-align: center;
+	height:133px;
+	width:600px;
+	overflow:hidden;
+	margin:auto;
+}
+.footer_section p{
+	height:50;
+	margin-top:12px;
+	color:#f4f4f4;
+
+}
+h6 {
+    color: white;
+}
+.social_icon i{
+	padding:4px;
+	background:#e3ff00;
+	height:4%;
+	width:4%;
+	border:50px;
+	color:black;
+	font-size:22px;
+	margin:5px;
+}
+.social_icon i:hover {
+	background: black;
+	color: yellow;
+	transition:.9s;
+}
